@@ -7,4 +7,4 @@
 #### The current Hamming distance of this CNN model on Pokemon test dataset, `TestImages` is `0.1040`
 
 [//]: # (Add a link)
-[Dataset, click here..](https://www.kaggle.com/datasets/divyanshusingh369/complete-pokemon-library-32k-images-and-csv)
+[Dataset?, click here..](https://www.kaggle.com/datasets/divyanshusingh369/complete-pokemon-library-32k-images-and-csv)
